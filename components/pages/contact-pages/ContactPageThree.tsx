@@ -1,1 +1,1 @@
-import ContactForm from "@/components/forms/contact-form";
+import ContactForm from "@/components/forms/SimpleForm";
