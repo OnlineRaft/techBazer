@@ -7,7 +7,7 @@ const ContactPage = () => {
   return (
     <div>
       {/* <ContactPageOne /> */}
-      <ContactPageThree />
+      <ContactPageOne />
     </div>
   )
 }
