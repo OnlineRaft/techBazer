@@ -13,7 +13,7 @@ const ContactPageTwo = () => {
         {/* Contact Information */}
         <div className=" lg:col-span-1 bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
           <div className="px-6 py-8 md:px-10">
-            <h2 className="text-3xl font-semibold text-gray-900 dark:text-white mb-6">Contact Information</h2>
+            <h2 className="text-3xl font-semibold text-gray-900 dark:text-white mb-6">Contact Information Grrr</h2>
             <div className="space-y-4">
               <div>
                 <h3 className="text-lg font-medium text-gray-700 dark:text-gray-300">Address</h3>
