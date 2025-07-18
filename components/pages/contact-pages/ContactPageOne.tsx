@@ -17,7 +17,7 @@ const ContactPageOne = () => {
         </div>
         {/* contect us information */}
         <div className=" bg-blue-600 w-full md:w-fit md:min-h-screen p-2 lg:p-8">
-          <h3 className="text-xl font-semibold text-center mt-4">Contact Us</h3>
+          <h3 className="text-xl font-semibold text-center mt-4">Contact Us bbb</h3>
           <div className="flex items-center md:items-start w-full h-full justify-start mt-4 flex-col gap-6 md:text-xl">
             <div className="flex items-center gap-4">
               <Locate size={40} />

@@ -36,7 +36,7 @@ const ContactForm: React.FC = () => {
   return (
     <div className="lg:col-span-2 bg-white dark:bg-gray-900 rounded-lg shadow-md overflow-hidden">
       <div className="px-6 py-8 md:px-10">
-        <h2 className="text-3xl font-semibold text-gray-900 dark:text-white mb-6">Contact Us</h2>
+        <h2 className="text-3xl font-semibold text-gray-900 dark:text-white mb-6">Contact Us ccc</h2>
         <form onSubmit={handleSubmit(onSubmit)}>
           <div className="grid grid-cols-1 gap-y-6">
             <div>
