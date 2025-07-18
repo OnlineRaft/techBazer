@@ -5,7 +5,7 @@ import { Button } from '../ui/button';
 import { Input } from '../ui/input';
 import { useForm, ValidationError } from '@formspree/react';
 
-const SimpleForm = () => {
+const SimpleForm: React.FC = () => {
   const [state, handleSubmit] = useForm("YOUR_FORM_ID");
 
   if (state.succeeded) {
